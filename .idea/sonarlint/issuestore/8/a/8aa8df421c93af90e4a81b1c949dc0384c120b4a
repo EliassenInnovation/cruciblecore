@@ -1,0 +1,25 @@
+
+‘	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó‰ÿ³úÿÿÿÿJ$27b06540-f15f-42d6-96e1-2840af3997da
+‘	java:S117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¥äÈúÿÿÿÿJ$6c148ff7-3ed2-4d7d-9cca-3d593882fe4d
+Œ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ°ÔÎJ$d1e9b4d6-0e60-4b51-857f-5dfce966b773
+•
+java:S3008"YRename this field "_threadObjects" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÙÝÇJ$8d1e9c4b-2253-41f8-91bc-9f95007a62dd
+{
+java:S1118":Add a private constructor to hide the implicit public one.(˜ã±çûÿÿÿÿJ$5705c2ca-6d1a-4717-9a89-cedc47377e47
+k	java:S106M"+Replace this use of System.out by a logger.(‰ÄäƒýÿÿÿÿJ$102f8c38-117f-4e92-af3a-93e8efa15394
+x	java:S125¨"<This block of commented-out lines of code should be removed.(Ú°à¬J$844c9a7c-0892-48cd-b50c-49d21b7b0242
+x	java:S125­"<This block of commented-out lines of code should be removed.(ºÀÝJ$3fd4068b-bca7-4372-a4b7-fa70ae9a2adc
+t
+java:S1135¦"2Complete the task associated to this TODO comment.(ðÌæ‹üÿÿÿÿJ$08009114-da77-4303-ad56-fc3fbf4aa1ee
+t
+java:S1135¬"2Complete the task associated to this TODO comment.(ðÌæ‹üÿÿÿÿJ$dd2aae6e-9492-465a-9578-17ac56c76ee5
+x	java:S125Ï"<This block of commented-out lines of code should be removed.(Ú°à¬J$968fc17b-6bb3-4f98-b6ac-9a087fe2a9ab
+t
+java:S1135Í"2Complete the task associated to this TODO comment.(ðÌæ‹üÿÿÿÿJ$1c2983a2-db59-4762-a556-52de6b9fbf30
+c
+java:S1128"FRemove this unused import 'com.eliassen.crucible.core.helpers.Logger'.(€èî8Û‚¾›€2
+l
+java:S1128
+"+Remove this unused import 'java.util.List'.(Õë±ÄøÿÿÿÿJ$8a4de937-557d-4b9b-b3b0-94829fa9cb6e
+t
+java:S1068"3Remove this unused "progressHandler" private field.(Ää¼×ÿÿÿÿÿJ$5b0a04dc-0eff-4ab8-a25f-3ce7dff79b4a

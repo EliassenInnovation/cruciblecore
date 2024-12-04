@@ -1,0 +1,10 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ησ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ησ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ƒτΊ
+q
+java:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(µΏμωÿÿÿÿ
+_
+java:S3551"IMake this method "synchronized" to match the parent class implementation.(¥ησ
+a
+java:S6201"FReplace this instanceof check and cast with 'instanceof String string'(†ΈΌόϊÿÿÿÿ
