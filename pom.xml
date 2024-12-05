@@ -22,12 +22,11 @@
             </snapshots>
         </repository>
     </repositories>
-   <distributionManagement>
-   <repository>
-     <id>github</id>
-     <name>GitHub EliassenInnovation Apache Maven Packages</name>
-     <url>https://maven.pkg.github.com/EliassenInnovation/cruciblecore</url>
-   </repository>
+  <distributionManagement>
+  <repository>
+    <id>github</id>
+    <url>https://maven.pkg.github.com/EliassenInnovation/cruciblecore</url>
+  </repository>
 </distributionManagement>
     <groupId>com.eliassen.crucible</groupId>
     <artifactId>core</artifactId>
