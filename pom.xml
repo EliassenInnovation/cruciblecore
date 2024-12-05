@@ -12,7 +12,7 @@
             </snapshots>
         </repository>
         <repository>
-            <id>github</id>
+            <id>cruciblecore</id>
             <url>https://maven.pkg.github.com/EliassenInnovation/cruciblecore</url>
             <releases>
                 <enabled>true</enabled>
@@ -24,7 +24,7 @@
     </repositories>
   <distributionManagement>
   <repository>
-    <id>github</id>
+    <id>cruciblecore</id>
     <url>https://maven.pkg.github.com/EliassenInnovation/cruciblecore</url>
   </repository>
 </distributionManagement>
