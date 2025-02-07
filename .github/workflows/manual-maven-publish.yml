@@ -55,7 +55,7 @@ jobs:
               <password>${{ secrets.GITHUB_TOKEN }}</password>
             </server>
             <server>
-              <id>core</id>
+              <id>cruciblecore</id>
               <username>${{ github.actor }}</username>
               <password>${{ secrets.GITHUB_TOKEN }}</password>
             </server>
