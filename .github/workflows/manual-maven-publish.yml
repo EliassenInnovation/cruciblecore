@@ -54,6 +54,12 @@ jobs:
               <username>${{ github.actor }}</username>
               <password>${{ secrets.GITHUB_TOKEN }}</password>
             </server>
+            <server>
+              <id>core</id>
+              <username>${{ github.actor }}</username>
+              <password>${{ secrets.GITHUB_TOKEN }}</password>
+            </server>
+          </servers>
           </servers>
           </settings>" > ~/.m2/settings.xml
 
